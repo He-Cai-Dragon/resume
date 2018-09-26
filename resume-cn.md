@@ -10,14 +10,29 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **16k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
+我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **20k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
 
 
 ## 工作经验
 
-### **Android 开发工程师** [51信用卡](https://www.u51.com)
+### **高级 Android 开发工程师** [阿里巴巴](https://www.alibabagroup.com)
 
-*2018/03 - 至今*
+*2018/10 - 至今*
+
+
+
+### **高级 Android 开发工程师** [51 信用卡](https://www.u51.com)
+
+*2018/03 - 2018/08*
+
+在 Android 客户端基础架构组下主要负责提升工程效率和新技术的引进，主要内容如下：
+
+* 统一 Android 公共工具库以提升团队开发效率；
+* 状态栏刘海适配；
+* 封装统一线程池来优化应用内存使用；
+* Android P 新特性分享供团队学习研究；
+* 为业务团队提供良好 SDK 提升业务开发效率；
+* 为团队开发工程模板插件以提升开发效率和开发规范。
 
 
 ### **高级 Android 开发工程师** [吉利亿咖通科技有限公司](http://www.ecarx.com.cn)
@@ -52,8 +67,8 @@
 ### 编程语言
 
 - [Java](https://www.java.com)^†^
+- [Kotlin](http://kotlinlang.org)^†^
 - [Python](https://www.python.org)
-- [Kotlin](http://kotlinlang.org)
 - [C/C++](http://www.cplusplus.com)
 - [Shell](http://www.linuxshell.it)
 - [JavaScript](https://www.javascript.com)
